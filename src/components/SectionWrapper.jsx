@@ -18,7 +18,7 @@ const SectionWrapper = ({
       <div
         className={`flex item-center ${
           reverse ? styles.boxReverseClass : styles.boxClass
-        }  sm:w-full minmd:w-3/4`}
+        }  w-11/12 sm:w-full minmd:w-3/4`}
       >
         <div
           className={`${styles.descDiv} ${
